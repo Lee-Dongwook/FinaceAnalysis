@@ -1,0 +1,19 @@
+# Secret and local configuration
+.env
+.env.*
+!.env.example
+
+# Runtime cache and local artifacts
+data/cache/*
+!data/cache/.gitkeep
+data/*.db
+*.log
+
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+
+# Node.js
+node_modules/
+dist/
