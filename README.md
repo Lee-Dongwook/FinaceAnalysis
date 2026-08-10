@@ -37,3 +37,4 @@ Backend 상태 확인은 `http://127.0.0.1:8000/health`, API 문서는 `http://1
 - [MVP 계획](docs/mvp-plan.md)
 - [API 계약](docs/api-contract.md)
 - [테스트 계획](docs/test-plan.md)
+- [분석 API 안정화·비동기 전환 제안](docs/async-analysis-refactoring-proposal.md)
